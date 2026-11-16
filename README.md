@@ -104,11 +104,3 @@ NEXHIP is developed collaboratively by a team of three students from Institut Te
 | Course             | Technopreneurship                                     |
 | Project Type       | Web-Based Information System                          |
 | Development Status | In Development                                        |
-
-## 📄 License
-
-This project is developed for academic purposes as part of the Technopreneurship course at Institut Teknologi dan Bisnis PalComTech.
-
----
-
-\<p align="center">   \<strong>NEXHIP\</strong>\<br>   Empowering Student Entrepreneurship Through Digital Innovation. \</p>
