@@ -89,9 +89,9 @@ NEXHIP is developed collaboratively by a team of three students from Institut Te
 
 | Role    | Responsibility                                           | Team Member |
 | ------- | -------------------------------------------------------- | ----------- |
-| Hacker  | Backend development, database, and system functionality  | [Name]      |
-| Hipster | UI/UX design and frontend interface                      | [Name]      |
-| Hustler | Project management, business analysis, and documentation | [Name]      |
+| Hacker  | Backend development, database, and system functionality  | [M. Novaldi Al Husaini]      |
+| Hipster | UI/UX design and frontend interface                      | [Mohammad Ihsandi]      |
+| Hustler | Project management, business analysis, and documentation | [Husnul  Munawir]      |
 
 ## 🎓 Project Information
 
